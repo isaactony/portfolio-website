@@ -46,7 +46,7 @@ const certifications = [
         name: "Cloud Practitioner",
         date: "2023",
         skills: ["Cloud Computing", "AWS Services", "Security", "Architecture"],
-        link: "https://www.credly.com/badges/aws-cloud-practitioner",
+        link: "https://www.credly.com/badges/c46aa5e8-b5f0-4439-aef5-f05421232778/linked_in_profile",
         icon: <Sparkles className="w-5 h-5" />
       }
     ],
