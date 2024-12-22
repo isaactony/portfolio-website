@@ -23,6 +23,16 @@ const companies = [
     darkMode: false
   },
   {
+    name: "Alternative Payments",
+    logo: "https://www.alternativepayments.io/",
+    darkMode: false
+  },
+  {
+    name: "Alternative Payments",
+    logo: "https://alternativecms.wpengine.com/wp-content/uploads/2023/05/Alternative-Payments.svg",
+    darkMode: false
+  },
+  {
     name: "Sendent",
     logo: "https://sendent.com/wp-content/uploads/2021/10/sendent_logo.png",
     darkMode: false
@@ -40,7 +50,7 @@ const companies = [
   {
     name: "10Web",
     logo: "https://10web.io/wp-content/themes/10web-theme/images/logos/logo.svg",
-    darkMode: true
+    darkMode: false
   }
 ];
 
