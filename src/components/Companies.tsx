@@ -24,17 +24,22 @@ const companies = [
   },
   {
     name: "Alternative Payments",
-    logo: "https://www.alternativepayments.io/",
-    darkMode: false
-  },
-  {
-    name: "Alternative Payments",
-    logo: "https://alternativecms.wpengine.com/wp-content/uploads/2023/05/Alternative-Payments.svg",
+    logo: "https://help.alternativepayments.io/hc/theming_assets/01J8GYTVY606MHMKA8R6WX685J",
     darkMode: false
   },
   {
     name: "Sendent",
     logo: "https://sendent.com/wp-content/uploads/2021/10/sendent_logo.png",
+    darkMode: false
+  },
+  {
+    name: "Transifex",
+    logo: "https://7gdrhmqdxblg-u503.pressidiumcdn.com/wp-content/uploads/2024/04/logo-tx-2024.webp",
+    darkMode: false
+  },
+  {
+    name: "Avatao",
+    logo: "https://avatao.com/media/avatao-logo-white.png",
     darkMode: false
   },
   {
