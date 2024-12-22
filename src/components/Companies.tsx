@@ -25,7 +25,7 @@ const companies = [
   {
     name: "Alternative Payments",
     logo: "https://help.alternativepayments.io/hc/theming_assets/01J8GYTVY606MHMKA8R6WX685J",
-    darkMode: false
+    darkMode: true
   },
   {
     name: "Sendent",
@@ -40,7 +40,7 @@ const companies = [
   {
     name: "Avatao",
     logo: "https://avatao.com/media/avatao-logo-white.png",
-    darkMode: false
+    darkMode: true
   },
   {
     name: "Technical Writer HQ",
