@@ -48,6 +48,27 @@ const certifications = [
         skills: ["Cloud Computing", "AWS Services", "Security", "Architecture"],
         link: "https://www.credly.com/badges/c46aa5e8-b5f0-4439-aef5-f05421232778/linked_in_profile",
         icon: <Sparkles className="w-5 h-5" />
+      },
+      {
+        name: "AWS Solutions Architect Associate",
+        date: "2023",
+        skills: ["Cloud Computing", "AWS Services", "Security", "Architecture"],
+        link: "https://www.credly.com/badges/c46aa5e8-b5f0-4439-aef5-f05421232778/linked_in_profile",
+        icon: <Sparkles className="w-5 h-5" />
+      }
+    ],
+    color: "from-orange-500 to-amber-500"
+  },
+  {
+    provider: "HashiCorp",
+    icon: <Award className="w-6 h-6" />,
+    certs: [
+      {
+        name: "HashiCorp Terraform Associate",
+        date: "2023",
+        skills: ["Cloud Computing", "Terraform", "Infracture as Code", "Architecture"],
+        link: "https://www.credly.com/badges/c46aa5e8-b5f0-4439-aef5-f05421232778/linked_in_profile",
+        icon: <Sparkles className="w-5 h-5" />
       }
     ],
     color: "from-orange-500 to-amber-500"
