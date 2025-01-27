@@ -24,7 +24,7 @@ const companies = [
   },
   {
     name: "Alternative Payments",
-    logo: "https://help.alternativepayments.io/hc/theming_assets/01J8GYTVY606MHMKA8R6WX685J",
+    logo: "https://alternativecms.wpengine.com/wp-content/uploads/2023/05/Alternative-Payments.svg",
     darkMode: true
   },
   {
@@ -56,7 +56,18 @@ const companies = [
     name: "10Web",
     logo: "https://10web.io/wp-content/themes/10web-theme/images/logos/logo.svg",
     darkMode: false
-  }
+  },
+  {
+    name: "AgentCloud",
+    logo: "https://cdn.prod.website-files.com/65adf1a878ae17b8b46475f5/65adf6a1feebb66f6debbd3d_agentcloud-full-white-bg-trans.svg",
+    darkMode: false
+  },
+  {
+    name: "SPRKL",
+    logo: "https://sprkl.dev/wp-content/uploads/2022/02/logo-negative-w-1.svg",
+    darkMode: false
+  },
+
 ];
 
 export default function Companies() {
