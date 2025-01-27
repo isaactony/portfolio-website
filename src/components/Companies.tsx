@@ -25,7 +25,7 @@ const companies = [
   {
     name: "Alternative Payments",
     logo: "https://alternativecms.wpengine.com/wp-content/uploads/2023/05/Alternative-Payments.svg",
-    darkMode: true
+    darkMode: false
   },
   {
     name: "Sendent",
@@ -60,7 +60,7 @@ const companies = [
   {
     name: "AgentCloud",
     logo: "https://cdn.prod.website-files.com/65adf1a878ae17b8b46475f5/65adf6a1feebb66f6debbd3d_agentcloud-full-white-bg-trans.svg",
-    darkMode: false
+    darkMode: true
   },
   {
     name: "SPRKL",
